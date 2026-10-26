@@ -2,11 +2,9 @@
 
 A student coursework demonstration of identifying bad practices in beginner Python code and refactoring it into clean, maintainable, PEP 8-compliant code using AI assistance.
 
-- **Author**: Ayan Khan (Enrolment No: `25BCON1174`)
+- **Author**: Yugansh Joshi (Enrolment No: `25BCON1209`)
 - **Institution**: Department of Computer Science & Engineering, JECRC University
-- **GitHub Repository**: [https://github.com/ayankhanbebea-lgtm/messy-python-code-improvement](https://github.com/ayankhanbebea-lgtm/messy-python-code-improvement)
 
----
 
 ## 1. Project Background
 In 2nd-year computer science coursework, initial code drafts often prioritize "just getting the answer to print" over structure, reusability, and readability. This project takes an authentic student scenario—calculating academic grades, averages, and attendance eligibility across multiple students—and demonstrates how to systematically improve it using modern AI refactoring techniques.
